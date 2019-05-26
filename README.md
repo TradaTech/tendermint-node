@@ -1,3 +1,5 @@
+> Forked from https://github.com/nomic-io/tendermint-node to make it work with Node 12.
+
 # tendermint-node
 
 Run a [Tendermint](https://tendermint.com) full node.
